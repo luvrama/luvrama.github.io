@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://www.sriramdental.com/sitemap.xml
+Geositemap: https://www.sriramdental.com/geositemap.xml
